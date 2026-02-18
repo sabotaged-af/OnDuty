@@ -1,4 +1,4 @@
-# Hackathon Starter Template
+# OnDuty - Hackathon Starter Template
 
 A scalable, modular, and production-ready template for hackathons.
 
